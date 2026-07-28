@@ -44,5 +44,17 @@ border: border-box ;
     display: flex;
     align-items: center;
 }
-
+/**box3**/
+.nav-search {
+    display: flex;
+    background-color: pink;
+    width: 620px;
+    height: 40px;
+    border-radius: 3px ;
+}
+.search-select {
+    background-color: #f3f3f3;
+    width: 5px;
+    text-align: center;
+}
 
