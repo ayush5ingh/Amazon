@@ -224,7 +224,7 @@ footer{
   list-style: none;
 }
 
-.foot-panel2 p{
+.foot-panel2 .footer-heading{
   font-weight: 700;
   margin-bottom: 10px;
 }
